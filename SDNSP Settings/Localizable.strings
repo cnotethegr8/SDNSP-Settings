@@ -1,0 +1,26 @@
+
+"auth.log_in" = "Log In";
+"auth.log_in.active" = "Logging In";
+"auth.log_out" = "Log Out";
+"auth.log_out.active" = "Logging Out";
+
+"common.done" = "Done";
+"common.ok" = "Ok";
+"common.service" = "Smart DNS Proxy";
+"common.updating" = "Updating...";
+
+"credentials.email" = "Email";
+"credentials.password" = "Password";
+
+"error.title" = "Oh no!";
+
+"script.error.conflicting_url" = "The previous request needs to finish before starting a new one.";
+"script.error.invalid_expression_output" = "The request returned an unexpected response.";
+"script.error.unexpected" = "An unexpected error occurred:\n%@";
+
+"settings.row.account" = "Active";
+"settings.row.dns" = "DNS";
+"settings.row.ip" = "IP";
+"settings.row.netflix" = "Netflix";
+"settings.section.account" = "Account";
+"settings.section.region" = "Region";
